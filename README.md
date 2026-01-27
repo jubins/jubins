@@ -4,7 +4,7 @@ Welcome to my repo. This is where my code lives (at least most of it, once it le
 
 I enjoy working across distributed systems, machine learning, security, and applied AI — especially when the result is something people can actually use. I also like experimenting, learning in public, and shipping side projects. When I’m not coding, I’m usually thinking about product ideas, game programming, or how to make systems a little more elegant (or at least less broken). I typically write on my [personal blog](https://jubinsoni.com), subscribe to my newsletter for awesome content on AWS, AI, Distributed Systems, GCP, DSA, and more!
 
-Here are some things I made that you might like:
+Here are some opensource projects I made that you might like:
 
 - **[RuntimePad](https://runtimepad.com/)** - A suite of dev tools and playground for running and sharing code snippets.
 
