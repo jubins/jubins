@@ -16,10 +16,10 @@ Here are some opensource projects I made that you might like:
 
 - **[Keystroke Authentication](https://github.com/jubins/KeystrokesAuthentication)**  - Behavioral biometrics using keystroke dynamics for authentication.
 
-- **[Distributed Systems: Key-Value Store Server](https://github.com/jubins/DistributedSystems-Key-Value-Store-Server)** - A distributed key-value store exploring consistency, replication, and fault tolerance.
+- **[Distributed Systems: Key-Value Store Server](https://github.com/jubins/DistributedSystems-Key-Value-Store-Server)** - A distributed key-value store (like redis) exploring consistency, replication, and fault tolerance.
 
 - **[AI Game Programming](https://github.com/jubins/AI-Game-Programming)** - Experiments with AI techniques applied to games.
 
-- **[AES Secure Chat Messenger](https://github.com/jubins/AES-Secure-Chat-Messenger)**  - A secure chat application using AES encryption.
+- **[AES Secure Chat Messenger](https://github.com/jubins/AES-Secure-Chat-Messenger)**  - A secure chat messenger application using open web-sockets and end-to-end encryption.
 
 Feel free to explore, fork, or reach out if something here sparks your interest.
