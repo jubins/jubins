@@ -1,6 +1,6 @@
-### Hello, there
+### Hello there,
 
-Welcome to my repo. This is where my code lives (at least most of it, once it leaves my computer). I build things on occasion, believe it or not. Most of them involve software, systems, or poking at interesting problems until something useful (or at least fun) falls out.
+Welcome to my GitHub. This is where my code lives (at least most of it, once it leaves my computer). I build things on occasion, believe it or not. Most of them involve software, systems, or poking at interesting problems until something useful (or at least fun) falls out.
 
 I enjoy working across distributed systems, machine learning, security, and applied AI — especially when the result is something people can actually use. I also like experimenting, learning in public, and shipping side projects. When I’m not coding, I’m usually thinking about product ideas, game programming, or how to make systems a little more elegant (or at least less broken). I typically write on my [personal blog](https://jubinsoni.com), subscribe to my newsletter for awesome content on AWS, AI, Distributed Systems, GCP, DSA, and more!
 
