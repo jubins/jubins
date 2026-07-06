@@ -32,3 +32,5 @@ I contribute code to open-source projects I rely on, mostly in the distributed s
 ### Speaking
 
 I occasionally speak at conferences and meetups on distributed systems, AI infrastructure, and cloud-native architecture. Check out my talks and upcoming sessions on [Sessionize](https://sessionize.com/jubinsoni/).
+
+I also teach — check out my courses on [Udemy](https://www.udemy.com/course/ai-901-azure-ai-fundamentals-practice-tests/).
